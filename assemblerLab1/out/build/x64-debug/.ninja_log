@@ -1,0 +1,6 @@
+# ninja log v5
+3	487	7484715608409861	CMakeFiles/assemblerLab1.dir/assemblerLab1.cpp.obj	1f0a356456aa6755
+1384	1830	7515687651470925	simpleSort.exe	5d6eac9faa83c3d
+7	1383	7515687647686689	CMakeFiles/simpleSort.dir/simpleSort.cpp.obj	af26191072d3643f
+3	210	7484716197757389	assemblerLab1.exe	49052569cc2f22e3
+9	488	7484715608527927	CMakeFiles/assemblerLab1.dir/simpleSort.cpp.obj	9cf1e8129a16be01

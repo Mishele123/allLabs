@@ -1,0 +1,4 @@
+D:/allLabs/assemblerLab1/out/build/x64-debug/CMakeFiles/assemblerLab1.dir
+D:/allLabs/assemblerLab1/out/build/x64-debug/CMakeFiles/simpleSort.dir
+D:/allLabs/assemblerLab1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/allLabs/assemblerLab1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
